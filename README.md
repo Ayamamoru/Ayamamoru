@@ -8,7 +8,7 @@ I pretty much suck at coding but somehow manage to make semi-working projects 50
 I really love going to hackathons cause it's the only time I will ever be motivated/able to force myself to code at all. SO far I've been to Scrapyard (my first one!!), Lockdown 🥇 and JPEG though I'm currently some 25 hours into the Athena Award...
 I was also initially gonna do Neighborhood or Shipwrecked but sadly I'm too immature to travel on my own :(( 
 
-My goals!!
+##My goals!!
 - Uhm GO TO NYC WITH ATHENA RAHHH
 - Get cracked enough to join my school robotics club...
 - GET RICH AND STOP BEING UNEMPLOYED (mostly the latter)
