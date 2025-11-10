@@ -22,7 +22,8 @@ I was also initially gonna do Neighborhood or Shipwrecked but sadly I'm too imma
 btw my pronouns are she/they but feel free to use any you want (because honestly don't mind any at all whatsoever)
 And uh here's my lil hackatime badge - "other" is just ren'py script lol
 
-![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=196&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=196&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha)
+
 <!--
 **Ayamamoru/Ayamamoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
